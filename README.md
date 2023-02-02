@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Artboard 1.png" >
+  <img src="Artboard 2.png" >
 </p>
 
 # # Leandro Fernandes Batista
