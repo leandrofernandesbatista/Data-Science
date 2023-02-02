@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Artboard 2.png" >
+  <img src="Artboard 3.png" >
 </p>
 
-# # Leandro Fernandes Batista
+## Leandro Fernandes Batista
 <sub>*Data Scientist, Military Police, 3D Artist and Audiovisual Especialist</sub>
 
 I am a Military Police Officer in the State of Santa Catarina and I was Graduated in Arts and Technology from UNOPAR. My skills are in Video Creation Specialist for Television and Film, Digital Artist and 3D Motion Graphics, Visual Programmer, Data Scientist and Python programmer.
